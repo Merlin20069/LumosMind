@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Inspo UI Colors (Light Theme) -->
+    <color name="bg_light">#F2F5F7</color>
+    <color name="card_white">#FFFFFF</color>
+
+    <!-- Pastel Colors from Image -->
+    <color name="pastel_pink">#FCE4EC</color>
+    <color name="pastel_blue">#E3F2FD</color>
+    <color name="pastel_green">#E8F5E9</color>
+    <color name="pastel_purple">#F3E5F5</color>
+    <color name="pastel_yellow">#FFF9C4</color>
+
+    <!-- Dark Accent Colors -->
+    <color name="deep_teal">#004D40</color>
+    <color name="soft_black">#2C3E50</color>
+    <color name="soft_gray">#7F8C8D</color>
+    <color name="text_muted">#95A5A6</color>
+
+    <!-- Legacy / Build Compatibility Colors -->
+    <color name="chart_blue">#7edcf4</color>
+    <color name="chart_purple">#B39DDB</color>
+    <color name="background_dark">#0F0F1E</color>
+    <color name="background_darker">#0A0A16</color>
+    <color name="card_background_dark">#1A1A2E</color>
+    <color name="surface_dark">#16162A</color>
+    <color name="purple_primary">#B794F6</color>
+    <color name="purple_secondary">#9D7DD4</color>
+    <color name="purple_light">#D4BBFF</color>
+    <color name="purple_dark">#7B5FB8</color>
+    <color name="accent_orange">#E07856</color>
+    <color name="accent_pink">#FF6B9D</color>
+    <color name="accent_blue">#5B9FFF</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A0A0B8</color>
+    <color name="text_tertiary">#6B6B7B</color>
+    <color name="text_hint">#4A4A5A</color>
+    <color name="divider_dark">#2A2A3E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="divider_light">#E0E0E0</color>
+</resources>
